@@ -1,0 +1,176 @@
+{
+  "network_analysis": {
+    "metadata": {
+      "extraction_date": "2026-03-17",
+      "target_profile": "https://www.facebook.com/tom.rohrbock.1",
+      "total_connections": 0,
+      "analysis_status": "in_progress",
+      "last_updated": "2026-03-17T11:00:00Z"
+    },
+    "central_profile": {
+      "name": "Tom Rohrböck",
+      "profile_url": "https://www.facebook.com/tom.rohrbock.1",
+      "location": "Seligenstadt, Germany",
+      "profile_type": "personal",
+      "verified": false,
+      "friend_count": 0,
+      "follower_count": 0
+    },
+    "direct_connections": {
+      "friends_list": [],
+      "family_connections": [],
+      "business_contacts": [],
+      "political_contacts": [],
+      "social_connections": []
+    },
+    "network_categories": {
+      "political_network": {
+        "afd_connections": [],
+        "cdu_csu_connections": [],
+        "fdp_connections": [],
+        "green_connections": [],
+        "spd_connections": [],
+        "other_political": [],
+        "unknown_political": []
+      },
+      "business_network": {
+        "corporate_partners": [],
+        "investment_network": [],
+        "consulting_clients": [],
+        "board_memberships": [],
+        "industry_associations": [],
+        "professional_services": []
+      },
+      "geographic_network": {
+        "seligenstadt_network": [],
+        "hessen_network": [],
+        "bavaria_network": [],
+        "germany_network": [],
+        "international_network": [],
+        "unknown_location": []
+      },
+      "social_network": {
+        "community_groups": [],
+        "social_organizations": [],
+        "event_networks": [],
+        "hobby_groups": [],
+        "religious_connections": []
+      }
+    },
+    "connection_template": {
+      "name": "",
+      "profile_url": "",
+      "profile_id": "",
+      "connection_type": "",
+      "relationship_strength": "",
+      "mutual_friends": 0,
+      "last_interaction": "",
+      "profile_image_url": "",
+      "verified_profile": false,
+      "follower_count": 0,
+      "location": "",
+      "work_information": {
+        "company": "",
+        "position": "",
+        "industry": ""
+      },
+      "education": {
+        "school": "",
+        "degree": "",
+        "field": ""
+      },
+      "political_affiliation": {
+        "party": "",
+        "role": "",
+        "position": "",
+        "influence_level": ""
+      },
+      "business_connections": {
+        "companies": [],
+        "board_positions": [],
+        "investments": [],
+        "partnerships": []
+      },
+      "social_groups": [],
+      "mutual_connections": [],
+      "interaction_history": {
+        "comments": [],
+        "likes": [],
+        "shares": [],
+        "tags": []
+      },
+      "evidence": {
+        "screenshots": [],
+        "profile_exports": [],
+        "interaction_logs": [],
+        "verification_sources": []
+      },
+      "network_analysis": {
+        "centrality_score": 0,
+        "influence_score": 0,
+        "bridge_score": 0,
+        "cluster_membership": [],
+        "connection_paths": []
+      }
+    },
+    "network_metrics": {
+      "total_nodes": 0,
+      "total_edges": 0,
+      "network_density": 0,
+      "average_path_length": 0,
+      "clustering_coefficient": 0,
+      "central_nodes": [],
+      "bridge_nodes": [],
+      "influential_nodes": [],
+      "network_clusters": []
+    },
+    "influence_analysis": {
+      "political_influence": {
+        "direct_influence": [],
+        "indirect_influence": [],
+        "policy_impact": [],
+        "party_influence": []
+      },
+      "business_influence": {
+        "corporate_influence": [],
+        "investment_influence": [],
+        "industry_influence": [],
+        "economic_impact": []
+      },
+      "social_influence": {
+        "community_influence": [],
+        "regional_influence": [],
+        "social_movement_influence": [],
+        "cultural_influence": []
+      }
+    },
+    "evidence_collection": {
+      "profile_urls": [],
+      "screenshots": [],
+      "interaction_logs": [],
+      "network_visualizations": [],
+      "verification_documents": [],
+      "cross_references": []
+    },
+    "quality_assurance": {
+      "data_completeness": {
+        "profile_urls_verified": false,
+        "connection_types_verified": false,
+        "interaction_data_complete": false,
+        "evidence_collected": false
+      },
+      "accuracy_checks": {
+        "url_accessibility": [],
+        "profile_verification": [],
+        "relationship_confirmation": [],
+        "cross_reference_validation": []
+      },
+      "backup_status": {
+        "local_backup": false,
+        "cloud_backup": false,
+        "integrity_check": false,
+        "version_control": false
+      }
+    }
+  }
+}
